@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="477a5b41-e42e-426c-9bdb-b4c39ddf4014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,7 +104,7 @@
       <workItem from="1569093668724" duration="3289000" />
       <workItem from="1569340475577" duration="537000" />
       <workItem from="1569341088884" duration="71000" />
-      <workItem from="1569341181666" duration="6790000" />
+      <workItem from="1569341181666" duration="9381000" />
     </task>
     <task id="LOCAL-00001" summary="Added blockchain">
       <created>1569345782812</created>
@@ -143,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569351308484</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added http support">
+      <created>1569352628110</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569352628110</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +171,8 @@
     <MESSAGE value="Added blockchain" />
     <MESSAGE value="Added .gitignore" />
     <MESSAGE value="refactored blockchain" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored blockchain" />
+    <MESSAGE value="Added http support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added http support" />
   </component>
   <component name="masterDetails">
     <states>
