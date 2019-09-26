@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="477a5b41-e42e-426c-9bdb-b4c39ddf4014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p2p-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockchain/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/block.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockchain/block.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/block.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/buffer-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/buffer-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/event-target.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/event-target.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/extension.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/extension.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/permessage-deflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/permessage-deflate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/receiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/receiver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/sender.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/sender.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/websocket-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket-server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/lib/websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2p-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/p2p-server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +108,7 @@
       <workItem from="1569093668724" duration="3289000" />
       <workItem from="1569340475577" duration="537000" />
       <workItem from="1569341088884" duration="71000" />
-      <workItem from="1569341181666" duration="11446000" />
+      <workItem from="1569341181666" duration="13683000" />
     </task>
     <task id="LOCAL-00001" summary="Added blockchain">
       <created>1569345782812</created>
@@ -170,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569519824033</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added p2p server">
+      <created>1569522002506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569522002506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +191,8 @@
     <MESSAGE value="refactored blockchain" />
     <MESSAGE value="Added http support" />
     <MESSAGE value="Added mine end point" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added mine end point" />
+    <MESSAGE value="Added p2p server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p2p server" />
   </component>
   <component name="masterDetails">
     <states>
