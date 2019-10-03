@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="477a5b41-e42e-426c-9bdb-b4c39ddf4014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wallet/transaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/transaction.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/block.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/block.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/block.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chain-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/chain-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uuid/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/transaction.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/transaction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/transaction.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/transaction.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +104,7 @@
       <workItem from="1569093668724" duration="3289000" />
       <workItem from="1569340475577" duration="537000" />
       <workItem from="1569341088884" duration="71000" />
-      <workItem from="1569341181666" duration="24274000" />
+      <workItem from="1569341181666" duration="25253000" />
     </task>
     <task id="LOCAL-00001" summary="Added blockchain">
       <created>1569345782812</created>
@@ -197,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570035460690</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added transactions">
+      <created>1570043933834</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570043933834</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +225,8 @@
     <MESSAGE value="Added p2p server" />
     <MESSAGE value="added difficulty" />
     <MESSAGE value="added wallet" />
-    <option name="LAST_COMMIT_MESSAGE" value="added wallet" />
+    <MESSAGE value="added transactions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added transactions" />
   </component>
   <component name="masterDetails">
     <states>
