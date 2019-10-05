@@ -4,7 +4,6 @@
     <list default="true" id="477a5b41-e42e-426c-9bdb-b4c39ddf4014" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2p-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/p2p-server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,7 @@
       <workItem from="1569093668724" duration="3289000" />
       <workItem from="1569340475577" duration="537000" />
       <workItem from="1569341088884" duration="71000" />
-      <workItem from="1569341181666" duration="32227000" />
+      <workItem from="1569341181666" duration="32559000" />
     </task>
     <task id="LOCAL-00001" summary="Added blockchain">
       <created>1569345782812</created>
@@ -225,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570293347701</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updated p2p">
+      <created>1570294575025</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1570294575025</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +264,8 @@
     <MESSAGE value="added transactions pool" />
     <MESSAGE value="added wallet test" />
     <MESSAGE value="added get/post transactions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added get/post transactions" />
+    <MESSAGE value="updated p2p" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated p2p" />
   </component>
   <component name="masterDetails">
     <states>
