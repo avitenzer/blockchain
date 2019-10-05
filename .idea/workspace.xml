@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="477a5b41-e42e-426c-9bdb-b4c39ddf4014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wallet/index.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/transaction-pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/transaction-pool.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +103,7 @@
       <workItem from="1569093668724" duration="3289000" />
       <workItem from="1569340475577" duration="537000" />
       <workItem from="1569341088884" duration="71000" />
-      <workItem from="1569341181666" duration="29528000" />
+      <workItem from="1569341181666" duration="30975000" />
     </task>
     <task id="LOCAL-00001" summary="Added blockchain">
       <created>1569345782812</created>
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570120887393</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added wallet test">
+      <created>1570129683429</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570129683429</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +248,8 @@
     <MESSAGE value="added transactions" />
     <MESSAGE value="added transaction update" />
     <MESSAGE value="added transactions pool" />
-    <option name="LAST_COMMIT_MESSAGE" value="added transactions pool" />
+    <MESSAGE value="added wallet test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added wallet test" />
   </component>
   <component name="masterDetails">
     <states>
