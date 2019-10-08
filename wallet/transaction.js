@@ -32,7 +32,6 @@ class Transaction {
 
     static newTransaction(senderWallet, recipient, amount ){
 
-        const transaction = new this();
         if(amount > senderWallet.balance){
             console.log(`Amount: ${amount} exceeds balance.`);
             return;
@@ -65,11 +64,7 @@ class Transaction {
         return ChainUtil.verifySignature(transaction.input.address, transaction.input.signature, ChainUtil.hash(transaction.outputs));
     }
 
-    static blockchainWallet(){
-        const blockchainWallet = new this();
-        blockchainWallet.address - 'blockchain-wallet';
-        return blockchainWallet;
-    }
+
 
 }
 
