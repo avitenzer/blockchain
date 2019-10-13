@@ -1,8 +1,9 @@
-
+const Wallet = require('../blockchain/wallet');
+const Transaction = require('../blockchain/wallet/transaction')
 
 class Miner {
-    constructor(bockchain, transactionPool, wallet, p2pServer){
-        this.bockchain = bockchain;
+    constructor(blockchain, transactionPool, wallet, p2pServer){
+        this.blockchain = blockchain;
         this.transactionPool = transactionPool;
         this.wallet = wallet;
         this.p2pServer = p2pServer;
@@ -11,7 +12,7 @@ class Miner {
     mine (){
         const validTransactions = this.transactionPool.validTransactions();
         validTransactions.push(
-            Tranaction.rewardTransaction(this.wallet, Wallet.blockchainWallet())
+            Transaction.rewardTransaction(this.wallet, Wallet.blockchainWallet())
         );
         const block = this.blockchain.addBlock(validTransactions);
         this.p2pServer.syncChains();
